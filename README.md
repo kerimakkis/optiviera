@@ -8,17 +8,17 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
 ![Languages](https://img.shields.io/badge/Languages-8%20Languages-orange)
 
-## 🚀 Features
+##  Features
 
-### ✨ Main Features
-- **🎯 One-Click Installation**: Automatic installer and database creation
-- **🌍 8-Language Support**: Turkish, English, German, French, Spanish, Italian, Portuguese, Dutch
-- **🔐 Secure Licensing System**: Machine-based licensing with automatic activation
-- **📊 Advanced Reporting**: Interactive charts using Chart.js
-- **👥 User Management**: Role-based access control
-- **🎫 Ticket System**: Customer support ticket management
+###  Main Features
+- ** One-Click Installation**: Automatic installer and database creation
+- ** 8-Language Support**: Turkish, English, German, French, Spanish, Italian, Portuguese, Dutch
+- ** Secure Licensing System**: Machine-based licensing with automatic activation
+- ** Advanced Reporting**: Interactive charts using Chart.js
+- ** User Management**: Role-based access control
+- ** Ticket System**: Customer support ticket management
 
-### 🛠️ Technical Features
+###  Technical Features
 - **ASP.NET Core 6.0** - Modern web framework
 - **SQLite Database** - Self-contained database
 - **Entity Framework Core** - ORM and migration support
@@ -27,9 +27,9 @@
 - **Bootstrap 5** - Responsive and modern UI
 - **Font Awesome 6** - Rich icon library
 
-## 📦 Installation
+##  Installation
 
-### 🖥️ Desktop Application (Recommended)
+###  Desktop Application (Recommended)
 
 #### Windows
 ```bash
@@ -50,7 +50,7 @@ chmod +x Optiviera\ ERP-1.0.0-arm64.AppImage
 ./Optiviera\ ERP-1.0.0-arm64.AppImage
 ```
 
-### 🌐 Web Application
+###  Web Application
 
 #### Requirements
 - .NET 6.0 Runtime
@@ -72,32 +72,32 @@ dotnet ef database update
 dotnet run
 ```
 
-## 🎯 Usage
+##  Usage
 
-### 🚀 Initial Setup
+###  Initial Setup
 1. **Download** the appropriate package for your platform
 2. **Install** using the installer wizard
 3. **Launch** the application (it will open automatically after install)
 4. **License**: 1-year free trial activates automatically
 
-### 👤 User Roles
+###  User Roles
 - **Admin**: Full access, user management
 - **Manager**: Reporting and ticket management
 - **Employee**: Basic operations
 
-### 🎫 Ticket System
+###  Ticket System
 - Customer information
 - Priority levels
 - Status tracking
 - Technical assignment
 
-### 📊 Reporting
+###  Reporting
 - Ticket statistics
 - User performance
 - Priority distribution
 - Time-based analysis
 
-## 🌍 Multilingual Support
+##  Multilingual Support
 
 | Language | Code | Status |
 |----------|------|--------|
@@ -110,27 +110,27 @@ dotnet run
 | 🇵🇹 Portuguese | pt | ✅ Complete |
 | 🇳🇱 Dutch | nl | ✅ Complete |
 
-## 🔐 Licensing System
+##  Licensing System
 
-### 🎁 Trial License
+###  Trial License
 - **Duration**: 1 year (365 days)
 - **Features**: Full access
 - **Activation**: Automatic
 - **Grace Period**: 7 additional days
 
-### 💳 Purchase
+###  Purchase
 - **Website**: [akkistech.com/optiviera](https://akkistech.com/optiviera)
 - **Contact**: support@akkistech.com
 - **Payment**: Secure payment system
 
-## 🛠️ Development
+##  Development
 
-### 📋 Requirements
+###  Requirements
 - .NET 6.0 SDK
 - Node.js 16+
 - Git
 
-### 🚀 Development Environment
+###  Development Environment
 ```bash
 # Clone the repository
 git clone https://github.com/akkistech/optiviera.git
@@ -149,7 +149,7 @@ npm install
 npm run dev
 ```
 
-### 🏗️ Build
+###  Build
 ```bash
 # ASP.NET Core build
 dotnet publish -c Release -r win-x64 --self-contained true
@@ -158,7 +158,7 @@ dotnet publish -c Release -r win-x64 --self-contained true
 npm run build
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Optiviera/
@@ -181,7 +181,7 @@ Optiviera/
     └── osx-arm64/             # macOS build
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -189,13 +189,13 @@ Optiviera/
 4. Push (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📞 Contact
+##  Contact
 
 - **Website**: [akkistech.com](https://akkistech.com)
 - **Email**: support@akkistech.com
 - **GitHub**: [github.com/akkistech/optiviera](https://github.com/akkistech/optiviera)
 
-## 📄 License
+##  License
 
 This project is licensed by Akkis Technologies (AkkisTech).
 
@@ -223,17 +223,17 @@ This project is licensed by Akkis Technologies (AkkisTech).
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
 ![Languages](https://img.shields.io/badge/Languages-8%20Languages-orange)
 
-## 🚀 Features
+## Features
 
-### ✨ Main Features
-- **🎯 One-Click Installation**: Automatic installer and database creation
-- **🌍 8-Language Support**: Turkish, English, German, French, Spanish, Italian, Portuguese, Dutch
-- **🔐 Secure Licensing System**: Machine-based licensing with automatic activation
-- **📊 Advanced Reporting**: Interactive charts using Chart.js
-- **👥 User Management**: Role-based access control
-- **🎫 Ticket System**: Customer support ticket management
+###  Main Features
+- ** One-Click Installation**: Automatic installer and database creation
+- ** 8-Language Support**: Turkish, English, German, French, Spanish, Italian, Portuguese, Dutch
+- ** Secure Licensing System**: Machine-based licensing with automatic activation
+- ** Advanced Reporting**: Interactive charts using Chart.js
+- ** User Management**: Role-based access control
+- ** Ticket System**: Customer support ticket management
 
-### 🛠️ Technical Features
+###  Technical Features
 - **ASP.NET Core 6.0** - Modern web framework
 - **SQLite Database** - Self-contained database
 - **Entity Framework Core** - ORM and migration support
@@ -242,9 +242,9 @@ This project is licensed by Akkis Technologies (AkkisTech).
 - **Bootstrap 5** - Responsive and modern UI
 - **Font Awesome 6** - Rich icon library
 
-## 📦 Installation
+##  Installation
 
-### 🖥️ Desktop Application (Recommended)
+###  Desktop Application (Recommended)
 
 #### Windows
 ```bash
@@ -265,7 +265,7 @@ chmod +x Optiviera\ ERP-1.0.0-arm64.AppImage
 ./Optiviera\ ERP-1.0.0-arm64.AppImage
 ```
 
-### 🌐 Web Application
+###  Web Application
 
 #### Requirements
 - .NET 6.0 Runtime
@@ -287,32 +287,32 @@ dotnet ef database update
 dotnet run
 ```
 
-## 🎯 Usage
+##  Usage
 
-### 🚀 Initial Setup
+###  Initial Setup
 1. **Download** the appropriate package for your platform
 2. **Install** using the installer wizard
 3. **Launch** the application (it will open automatically after install)
 4. **License**: 1-year free trial activates automatically
 
-### 👤 User Roles
+###  User Roles
 - **Admin**: Full access, user management
 - **Manager**: Reporting and ticket management
 - **Employee**: Basic operations
 
-### 🎫 Ticket System
+###  Ticket System
 - Customer information
 - Priority levels
 - Status tracking
 - Technical assignment
 
-### 📊 Reporting
+###  Reporting
 - Ticket statistics
 - User performance
 - Priority distribution
 - Time-based analysis
 
-## 🌍 Multilingual Support
+##  Multilingual Support
 
 | Language | Code | Status |
 |----------|------|--------|
@@ -325,27 +325,27 @@ dotnet run
 | 🇵🇹 Portuguese | pt | ✅ Complete |
 | 🇳🇱 Dutch | nl | ✅ Complete |
 
-## 🔐 Licensing System
+##  Licensing System
 
-### 🎁 Trial License
+###  Trial License
 - **Duration**: 1 year (365 days)
 - **Features**: Full access
 - **Activation**: Automatic
 - **Grace Period**: 7 additional days
 
-### 💳 Purchase
+###  Purchase
 - **Website**: [akkistech.com/optiviera](https://akkistech.com/optiviera)
 - **Contact**: support@akkistech.com
 - **Payment**: Secure payment system
 
-## 🛠️ Development
+##  Development
 
-### 📋 Requirements
+###  Requirements
 - .NET 6.0 SDK
 - Node.js 16+
 - Git
 
-### 🚀 Development Environment
+###  Development Environment
 ```bash
 # Clone the repository
 git clone https://github.com/akkistech/optiviera.git
@@ -364,7 +364,7 @@ npm install
 npm run dev
 ```
 
-### 🏗️ Build
+###  Build
 ```bash
 # ASP.NET Core build
 dotnet publish -c Release -r win-x64 --self-contained true
@@ -373,7 +373,7 @@ dotnet publish -c Release -r win-x64 --self-contained true
 npm run build
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Optiviera/
@@ -396,7 +396,7 @@ Optiviera/
     └── osx-arm64/             # macOS build
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -404,13 +404,13 @@ Optiviera/
 4. Push (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📞 Contact
+##  Contact
 
 - **Website**: [akkistech.com](https://akkistech.com)
 - **Email**: support@akkistech.com
 - **GitHub**: [github.com/akkistech/optiviera](https://github.com/akkistech/optiviera)
 
-## 📄 License
+##  License
 
 This project is licensed by Akkis Technologies (AkkisTech).
 
@@ -435,17 +435,17 @@ This project is licensed by Akkis Technologies (AkkisTech).
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
 ![Languages](https://img.shields.io/badge/Languages-8%20Languages-orange)
 
-## 🚀 Özellikler
+##  Özellikler
 
-### ✨ **Ana Özellikler**
-- **🎯 Tek Tıkla Kurulum**: Otomatik kurulum ve veritabanı oluşturma
-- **🌍 8 Dil Desteği**: Türkçe, İngilizce, Almanca, Fransızca, İspanyolca, İtalyanca, Portekizce, Hollandaca
-- **🔐 Güvenli Lisans Sistemi**: Makine bazlı lisans, otomatik aktivasyon
-- **📊 Gelişmiş Raporlama**: Chart.js ile interaktif grafikler
-- **👥 Kullanıcı Yönetimi**: Rol bazlı erişim kontrolü
-- **🎫 Ticket Sistemi**: Müşteri destek talebi yönetimi
+###  **Ana Özellikler**
+- ** Tek Tıkla Kurulum**: Otomatik kurulum ve veritabanı oluşturma
+- ** 8 Dil Desteği**: Türkçe, İngilizce, Almanca, Fransızca, İspanyolca, İtalyanca, Portekizce, Hollandaca
+- ** Güvenli Lisans Sistemi**: Makine bazlı lisans, otomatik aktivasyon
+- ** Gelişmiş Raporlama**: Chart.js ile interaktif grafikler
+- ** Kullanıcı Yönetimi**: Rol bazlı erişim kontrolü
+- ** Ticket Sistemi**: Müşteri destek talebi yönetimi
 
-### 🛠️ **Teknik Özellikler**
+### **Teknik Özellikler**
 - **ASP.NET Core 6.0** - Modern web framework
 - **SQLite Database** - Self-contained veritabanı
 - **Entity Framework Core** - ORM ve migration desteği
@@ -454,9 +454,9 @@ This project is licensed by Akkis Technologies (AkkisTech).
 - **Bootstrap 5** - Responsive ve modern UI
 - **Font Awesome 6** - Zengin ikon kütüphanesi
 
-## 📦 Kurulum
+##  Kurulum
 
-### 🖥️ **Desktop Uygulaması (Önerilen)**
+###  **Desktop Uygulaması (Önerilen)**
 
 #### Windows
 ```bash
@@ -477,7 +477,7 @@ chmod +x Optiviera\ ERP-1.0.0-arm64.AppImage
 ./Optiviera\ ERP-1.0.0-arm64.AppImage
 ```
 
-### 🌐 **Web Uygulaması**
+###  **Web Uygulaması**
 
 #### Gereksinimler
 - .NET 6.0 Runtime
@@ -499,32 +499,32 @@ dotnet ef database update
 dotnet run
 ```
 
-## 🎯 Kullanım
+##  Kullanım
 
-### 🚀 **İlk Kurulum**
+###  **İlk Kurulum**
 1. **İndir**: Platformunuza uygun dosyayı indirin
 2. **Kur**: Kurulum sihirbazını takip edin
 3. **Başlat**: Uygulama otomatik olarak açılacak
 4. **Lisans**: 1 yıllık ücretsiz trial otomatik aktif
 
-### 👤 **Kullanıcı Yönetimi**
+###  **Kullanıcı Yönetimi**
 - **Admin**: Tam erişim, kullanıcı yönetimi
 - **Manager**: Raporlama ve ticket yönetimi
 - **Employee**: Temel işlemler
 
-### 🎫 **Ticket Sistemi**
+###  **Ticket Sistemi**
 - Müşteri bilgileri
 - Öncelik seviyeleri
 - Durum takibi
 - Teknik atama
 
-### 📊 **Raporlama**
+###  **Raporlama**
 - Ticket istatistikleri
 - Kullanıcı performansı
 - Öncelik dağılımı
 - Zaman bazlı analizler
 
-## 🌍 Çok Dilli Destek
+##  Çok Dilli Destek
 
 | Dil | Kod | Durum |
 |-----|-----|-------|
@@ -537,27 +537,27 @@ dotnet run
 | 🇵🇹 Português | pt | ✅ Tam |
 | 🇳🇱 Nederlands | nl | ✅ Tam |
 
-## 🔐 Lisans Sistemi
+##  Lisans Sistemi
 
-### 🎁 **Trial Lisans**
+###  **Trial Lisans**
 - **Süre**: 1 yıl (365 gün)
 - **Özellikler**: Tam erişim
 - **Aktivasyon**: Otomatik
 - **Grace Period**: 7 gün ek süre
 
-### 💳 **Satın Alma**
+### **Satın Alma**
 - **Website**: [akkistech.com/optiviera](https://akkistech.com/optiviera)
 - **İletişim**: support@akkistech.com
 - **Ödeme**: Güvenli ödeme sistemi
 
-## 🛠️ Geliştirme
+##  Geliştirme
 
-### 📋 **Gereksinimler**
+###  **Gereksinimler**
 - .NET 6.0 SDK
 - Node.js 16+
 - Git
 
-### 🚀 **Geliştirme Ortamı**
+###  **Geliştirme Ortamı**
 ```bash
 # Repository'yi klonla
 git clone https://github.com/akkistech/optiviera.git
@@ -576,7 +576,7 @@ npm install
 npm run dev
 ```
 
-### 🏗️ **Build**
+###  **Build**
 ```bash
 # ASP.NET Core build
 dotnet publish -c Release -r win-x64 --self-contained true
@@ -585,7 +585,7 @@ dotnet publish -c Release -r win-x64 --self-contained true
 npm run build
 ```
 
-## 📁 Proje Yapısı
+##  Proje Yapısı
 
 ```
 Optiviera/
@@ -612,7 +612,7 @@ Optiviera/
     └── osx-arm64/          # macOS build
 ```
 
-## 🧪 Test Suite
+##  Test Suite
 
 Tüm installer paketlerini otomatik olarak test eden kapsamlı bir test sistemi mevcuttur.
 
@@ -653,7 +653,7 @@ Test sonuçları otomatik olarak şu klasörlere kaydedilir:
 
 Detaylar için: `test/` klasörüne bakın.
 
-## 🤝 Katkıda Bulunma
+##  Katkıda Bulunma
 
 1. Fork yapın
 2. Feature branch oluşturun (`git checkout -b feature/amazing-feature`)
@@ -661,13 +661,13 @@ Detaylar için: `test/` klasörüne bakın.
 4. Push yapın (`git push origin feature/amazing-feature`)
 5. Pull Request oluşturun
 
-## 📞 İletişim
+##  İletişim
 
 - **Website**: [akkistech.com](https://akkistech.com)
 - **E-posta**: support@akkistech.com
 - **GitHub**: [github.com/akkistech/optiviera](https://github.com/akkistech/optiviera)
 
-## 📄 Lisans
+##  Lisans
 
 Bu proje Akkis Technologies (AkkisTech) tarafından lisanslanmıştır.
 
